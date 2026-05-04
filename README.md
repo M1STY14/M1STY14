@@ -5,7 +5,7 @@
 </p>
 
 ### Who am I?
-Full-stack junior developer with a Goku-sized appetite for learning. I treat every PR like a sparring match and every bug like a worthy opponent. Off the keyboard, you'll find me at the gym and deep in a Dragon Ball rewatch or arguing that Goku is, in fact, the strongest anime character :)
+Junior software engineer with a Goku-sized appetite for learning. I treat every PR like a sparring match and every bug like a worthy opponent. Off the keyboard, you'll find me at the gym and deep in a Dragon Ball rewatch or arguing that Goku is, in fact, the strongest anime character :)
 
 ### What I'm working on
 Currently working on deepening my engineering knowledge, exploring development with React Native, Node.js, Typescript, and shipping personal projects to production.
